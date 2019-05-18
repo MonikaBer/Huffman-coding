@@ -1,8 +1,5 @@
 .data
 	msg: 		   .asciiz  "[0] - kodowanie, [1] - dekodowanie. Twoj wybor: "
-	msg1: 		   .asciiz  "Podaj nazwe pliku z tekstem do zakodowania: "
-	msg2: 		   .asciiz  "Podaj nazwe pliku z tekstem do zdekodowania: "
-	msg3:              .asciiz  "Podaj nazwe pliku wynikowego: "
 	msg4:              .asciiz  "Statystyki:\n"
 	msg5:              .asciiz  "Ile wczytanych znaków: "
 	msg6:              .asciiz  "\nIle rodzajów znaków: "
